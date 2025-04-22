@@ -23,26 +23,26 @@ Another dataset that we used was provided by Yahoo Finance’s Python package, w
 
 For sales:  
 
-*Revenue (in Millions) – Total annual revenue for Coca-Cola and Pepsi from Macrotrends 
+* Revenue (in Millions) – Total annual revenue for Coca-Cola and Pepsi from Macrotrends 
 
-*Quarterly Revenue – took the total revenue for each quarter to consolidate Q4 for Coca-Cola (holiday season) and Q1 for Pepsi (when Super Bowl occurs).   
+* Quarterly Revenue – took the total revenue for each quarter to consolidate Q4 for Coca-Cola (holiday season) and Q1 for Pepsi (when Super Bowl occurs).   
 
  
 For Stocks: 
 
-*Close, Adj Close, Open – Daily and monthly stock price data for KO and PEP, used to compute log returns. 
+* Close, Adj Close, Open – Daily and monthly stock price data for KO and PEP, used to compute log returns. 
 
-*ret_log_KO, ret_log_PEP – Daily log returns for Coca-Cola and Pepsi. 
+* ret_log_KO, ret_log_PEP – Daily log returns for Coca-Cola and Pepsi. 
 
-*rolling_corr – 6-month rolling correlation between KO and PEP stock returns. 
+* rolling_corr – 6-month rolling correlation between KO and PEP stock returns. 
 
-*Month, Season – Custom variables to isolate holiday and Super Bowl periods. 
+* Month, Season – Custom variables to isolate holiday and Super Bowl periods. 
 
 
 For Google Trends: 
-*Google Trends Index – Relative search interest for Coca-Cola, Pepsi, Coke, and PepsiCo. 
+* Google Trends Index – Relative search interest for Coca-Cola, Pepsi, Coke, and PepsiCo. 
 
-*Frequency – Graphing the difference in relative search interest between Coca-Cola and Pepsi via how often they are searched. 
+* Frequency – Graphing the difference in relative search interest between Coca-Cola and Pepsi via how often they are searched. 
 
 
  
