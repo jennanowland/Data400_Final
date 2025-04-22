@@ -1,9 +1,6 @@
-# DATA 400: Capstone in Data Analytics (Spring 2025) #
-## Course description ##
-
 # Cultural Competition: How American Culture Plays a Part in Pepsi vs Coca-Cola  #
 
-![Alt text](/Users/malenamalka/Desktop/SPRING 2025/DATA 400/cokepepsiboxing630.jpeg)
+![cokepepsiboxing630](https://github.com/user-attachments/assets/ed2627e3-cb53-4c2f-8367-945647d69d95)
 
 ## Introduction: ##
 This project explores the long-standing rivalry between Coca-Cola and Pepsi using a data analytics lens. We investigate how key advertising moments—like Coca-Cola's Christmas campaigns and Pepsi's Super Bowl halftime show sponsorship—impact each company’s sales, stock performance, and consumer interest (via Google Trends). By combining time series, web search, and financial data, our goal is to understand whether heightened consumer interest translates into measurable economic signals. 
@@ -21,14 +18,14 @@ Another dataset that we used was provided by Yahoo Finance’s Python package, w
 
 **Main Variables:**
 
-For sales:  
+*For sales:* 
 
 * Revenue (in Millions) – Total annual revenue for Coca-Cola and Pepsi from Macrotrends 
 
 * Quarterly Revenue – took the total revenue for each quarter to consolidate Q4 for Coca-Cola (holiday season) and Q1 for Pepsi (when Super Bowl occurs).   
 
  
-For Stocks: 
+*For Stocks:*
 
 * Close, Adj Close, Open – Daily and monthly stock price data for KO and PEP, used to compute log returns. 
 
@@ -39,12 +36,40 @@ For Stocks:
 * Month, Season – Custom variables to isolate holiday and Super Bowl periods. 
 
 
-For Google Trends: 
-* Google Trends Index – Relative search interest for Coca-Cola, Pepsi, Coke, and PepsiCo. 
+*For Google Trends:*
 
+* Google Trends Index – Relative search interest for Coca-Cola, Pepsi, Coke, and PepsiCo.
+  
 * Frequency – Graphing the difference in relative search interest between Coca-Cola and Pepsi via how often they are searched. 
-
-
  
 
-Graphs: 
+## Graphs: ##
+
+
+## Takeaways ##
+
+**Sales**
+
+The data showed that there was no significant effect from the respective advertising events for Coca-Cola and Pepsi. Coca-Cola has a very consistent stream of revenue; Q1 and Q4 are consistently very close to one another. This suggests that if the holiday marketing campaigns aren’t too costly, they may still be worth running due to other emotional or brand-building benefits.
+
+On the other hand, Pepsi shows a drastic difference between Q1 and Q4 revenue. Although the Super Bowl takes place in Q1, Pepsi repeatedly generates significantly more revenue in Q4 year after year.
+
+When comparing overall performance, Pepsi is ahead in total revenue. However, this is partially because PepsiCo owns a wider range of snack brands (e.g., Cheetos, Lay’s, Doritos), while Coca-Cola focuses mostly on beverages (e.g., Sprite, Powerade).
+
+---
+
+**Stocks**
+
+The stock analysis revealed that both Coca-Cola and PepsiCo experienced steady long-term growth from 2012 to 2022, with PepsiCo consistently maintaining a higher stock price. Although Coca-Cola’s growth was more gradual, it demonstrated stability and resilience throughout the decade. 
+
+Both companies showed a brief decline during the 2020 recession but recovered quickly, reinforcing the idea that consumer staples stocks tend to be reliable during periods of economic uncertainty. 
+
+When analyzing short-term performance around key promotional periods (during the Santa campaign for Coca-Cola and around the Super Bowl for Pepsi), Coca-Cola saw higher returns during its holiday campaign months, while PepsiCo tended to experience stronger returns in the month following the Super Bowl. These patterns suggest that while both companies benefit from seasonal marketing, the timing and impact on investor behavior vary across strategies.
+
+---
+
+**Google Trends**
+
+Google Trends data revealed a notable difference in consumer search activity. Across relevant time periods, Pepsi consistently had more searches than Coca-Cola. However, the limitations of the dataset must be noted. For instance, Google Trends data was limited to “Coca-Cola,” excluding related terms like “Coke” or misspellings that might still lead to Coca-Cola content.
+
+Additionally, it's unclear how Google handles autocorrections in search queries (e.g., "Did you mean...?"). Despite these limitations, it is clear that Pepsi had stronger online search engagement than Coca-Cola throughout the campaign periods.
