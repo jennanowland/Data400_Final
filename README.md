@@ -44,6 +44,13 @@ Another dataset that we used was provided by Yahoo Finance’s Python package, w
  
 
 ## Graphs: ##
+![revenue](https://github.com/user-attachments/assets/202ee4d0-de62-406b-aefa-f8676b4c5930)
+![yearly](https://github.com/user-attachments/assets/ca9de793-5f40-4e14-a546-7e9a4872df6e)
+![close](https://github.com/user-attachments/assets/edb95265-8e35-48ff-9030-75be9068a03d)
+![output_season](https://github.com/user-attachments/assets/63103721-e56f-42a5-b6f9-441caa8ad41d)
+![returns_season](https://github.com/user-attachments/assets/88687ce7-1634-4997-a4df-0796df900553)
+![trends](https://github.com/user-attachments/assets/f20094e6-4a05-4cd8-84ec-85df5f43ce6f)
+
 
 
 ## Takeaways ##
