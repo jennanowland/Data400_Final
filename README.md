@@ -47,8 +47,11 @@ Another dataset that we used was provided by Yahoo Finance’s Python package, w
 ![revenue](https://github.com/user-attachments/assets/202ee4d0-de62-406b-aefa-f8676b4c5930)
 ![yearly](https://github.com/user-attachments/assets/ca9de793-5f40-4e14-a546-7e9a4872df6e)
 ![close](https://github.com/user-attachments/assets/edb95265-8e35-48ff-9030-75be9068a03d)
+Over the past decade, PepsiCo consistently maintained a higher stock price and steeper growth than Coca-Cola. Both stocks briefly dipped during the 2020 recession but recovered quickly, highlighting their resilience as consumer staples.
 ![output_season](https://github.com/user-attachments/assets/63103721-e56f-42a5-b6f9-441caa8ad41d)
+Coca-Cola's holiday season returns are generally more stable, while PepsiCo’s Super Bowl returns are more volatile with occasional spikes. Volume trends show Coca-Cola’s holiday periods typically attract higher trading activity, whereas PepsiCo’s Super Bowl-related volume fluctuates more across years.
 ![returns_season](https://github.com/user-attachments/assets/88687ce7-1634-4997-a4df-0796df900553)
+Coca-Cola shows positive average returns during the holiday season (Nov–Jan), followed by a drop in February. In contrast, Pepsi experiences negative returns during the Super Bowl month (Feb), but sees a strong rebound in March, suggesting a delayed market reaction to its major campaign.
 ![trends](https://github.com/user-attachments/assets/f20094e6-4a05-4cd8-84ec-85df5f43ce6f)
 
 
