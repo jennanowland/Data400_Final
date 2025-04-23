@@ -45,7 +45,9 @@ Another dataset that we used was provided by Yahoo Finance’s Python package, w
 
 ## Graphs: ##
 ![revenue](https://github.com/user-attachments/assets/202ee4d0-de62-406b-aefa-f8676b4c5930)
+The Pepsi vs Coca-Cola rivalry can be answered in this graph alone.  Pepsi is the "winner" in terms of total yearly revenue.  However, one must note that Pepsi owns other large snack companies like Cheeto's and Lay's Chips.  Meanwhile, Coca-Cola remains in the beverage world with Powerade, Sprite, and more.  Overall, it also cannot be concluded that the Santa marketing for Coca-Cola and the Super Bowl for Pepsi lead to a direct translation in increasing revenue. 
 ![yearly](https://github.com/user-attachments/assets/ca9de793-5f40-4e14-a546-7e9a4872df6e)
+This graph displays the yearly revenue growth rate of both Pepsi and Coca-Cola.  Pepsi, for the most part, is on a steady upward increase in revenue each year.  On the other hand, Coca-Cola has some large dips.  Specifically, around 2017 Coca-Cola refranchising their bottling systems to emphasize value over volume. 
 ![close](https://github.com/user-attachments/assets/edb95265-8e35-48ff-9030-75be9068a03d)
 Over the past decade, PepsiCo consistently maintained a higher stock price and steeper growth than Coca-Cola. Both stocks briefly dipped during the 2020 recession but recovered quickly, highlighting their resilience as consumer staples.
 ![output_season](https://github.com/user-attachments/assets/63103721-e56f-42a5-b6f9-441caa8ad41d)
@@ -53,7 +55,7 @@ Coca-Cola's holiday season returns are generally more stable, while PepsiCo’s 
 ![returns_season](https://github.com/user-attachments/assets/88687ce7-1634-4997-a4df-0796df900553)
 Coca-Cola shows positive average returns during the holiday season (Nov–Jan), followed by a drop in February. In contrast, Pepsi experiences negative returns during the Super Bowl month (Feb), but sees a strong rebound in March, suggesting a delayed market reaction to its major campaign.
 ![trends](https://github.com/user-attachments/assets/f20094e6-4a05-4cd8-84ec-85df5f43ce6f)
-
+The Google Searches display that the highest peaks occured the first two Super Bowl's for Pepsi.  Coca-Cola does not receive nearly as many searches.  Some things to keep in mind are that people had to specifically search "Coca-Cola" in order for it to be counted in the data.  In the future, it might be useful to broaden the search with proper data cleaning techniques.
 
 
 ## Takeaways ##
