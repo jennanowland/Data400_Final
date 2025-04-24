@@ -57,6 +57,9 @@ One key feature of our analysis was the use of seasonal event windows to assess 
 ---
 
 **Consumer engagement**
+Our Google Trends analysis focused on search interest in Coca-Cola and Pepsi during key advertising periods. We used a cleaned and time-indexed dataset of monthly search frequencies extracted via the Google Trends platform. For Pepsi, we isolated searches during the months of January, February, and March to capture the Super Bowl season. For Coca-Cola, we focused on November and December to capture interest during the holiday campaign window.
+
+We visualized search interest over time using line plots created with matplotlib and styled with seaborn. To improve interpretability, we ensured that date formats were consistent and replaced any <1 search values with numeric approximations. There were no machine learning models or advanced statistics in this part of the analysis, just clear and effective use of exploratory data analysis (EDA) and time-based filtering to interpret consumer behavior through search activity.
 
 ---
 
