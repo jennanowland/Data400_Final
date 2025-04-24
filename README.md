@@ -41,7 +41,24 @@ Another dataset that we used was provided by Yahoo Finance’s Python package, w
 * Google Trends Index – Relative search interest for Coca-Cola, Pepsi, Coke, and PepsiCo.
   
 * Frequency – Graphing the difference in relative search interest between Coca-Cola and Pepsi via how often they are searched. 
- 
+
+## Models: ## 
+
+**Sales**
+
+---
+
+**Stocks**
+
+Our analysis used descriptive and inferential statistical methods to explore stock behavior for Coca-Cola and Pepsi. We computed monthly log returns to analyze relative changes over time and examined how closely the two stocks moved together using a 6-month rolling correlation. To describe return behavior in more detail, we calculated summary statistics such as mean, standard deviation, skewness, and kurtosis. We also explored the correlation between the two brands by comparing monthly percentage changes in their stock prices.
+
+One key feature of our analysis was the use of seasonal event windows to assess performance around key marketing moments. We grouped and averaged Coca-Cola’s log returns during the holiday season (November, December, January) and Pepsi’s returns during February to capture the Super Bowl effect. To account for the fact that January belongs to the previous year’s holiday campaign, we adjusted the calendar year accordingly. By combining these returns into a single visual, we were able to directly compare the average impact of seasonal marketing campaigns on each company's stock performance across multiple years.
+
+---
+
+**Consumer engagement**
+
+---
 
 ## Graphs: ##
 ![revenue](https://github.com/user-attachments/assets/202ee4d0-de62-406b-aefa-f8676b4c5930)
