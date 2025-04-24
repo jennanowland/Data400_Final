@@ -46,6 +46,10 @@ Another dataset that we used was provided by Yahoo Finance’s Python package, w
 
 **Sales**
 
+Our analyses of Revenue for both Coca-Cola and Pepsi include a time series visualization and a comparative revenue growth model.  The time series visualization depicts the differences in revenue for Coca-Cola and Pepsi during the first and last quarter (Q1 and Q4) for the years 2012-2022.  By doing so, we can pinpoint if the Super Bowl Halftime Sponsorship for Pepsi translates to sales - similarly for Coca-Cola's Santa and Holiday marketing campaign.
+
+The comparative revenue growth model shows the percentage of revenue growth or decline compared to the year prior.  One can use this to see if each company's marketing campaign is assisting in overal company growth and more.  By identifying if the marketing is helping revenue trend upward or downward, each company can identify if allocating resoruces to the sponsorships is worth it.
+
 ---
 
 **Stocks**
